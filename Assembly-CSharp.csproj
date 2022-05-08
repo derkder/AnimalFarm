@@ -56,13 +56,16 @@
     <Analyzer Include="D:\VS_ide\Common7\IDE\Extensions\Microsoft\Visual Studio Tools for Unity\Analyzers\Microsoft.Unity.Analyzers.dll" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\scripts\player\Dino.cs" />
     <Compile Include="Assets\scripts\player\fsm\DinoBaseState.cs" />
-    <Compile Include="Assets\scripts\player\fsm\StandingState.cs" />
-    <Compile Include="Assets\scripts\player\fsm\MovingState.cs" />
-    <Compile Include="Assets\scripts\player\fsm\Attacking1State.cs" />
     <Compile Include="Assets\scripts\player\fsm\Attacking2State.cs" />
+    <Compile Include="Assets\scripts\player\fsm\MovingState.cs" />
     <Compile Include="Assets\scripts\player\fsm\Attacking3State.cs" />
+    <Compile Include="Assets\scripts\player\fsm\Attacking1State.cs" />
+    <Compile Include="Assets\scripts\player\Dino.cs" />
+    <Compile Include="Assets\scripts\player\fsm\StandingState.cs" />
+    <Compile Include="Assets\scripts\Animals\BaseAnimal.cs" />
+    <Compile Include="Assets\scripts\Animals\chicken.cs" />
+    <Compile Include="Assets\scripts\Animals\mouse.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
@@ -298,6 +301,9 @@
     </Reference>
     <Reference Include="Unity.VisualScripting.Antlr3.Runtime">
       <HintPath>Library\PackageCache\com.unity.visualscripting@1.6.1\Runtime\VisualScripting.Flow\Dependencies\NCalc\Unity.VisualScripting.Antlr3.Runtime.dll</HintPath>
+    </Reference>
+    <Reference Include="clipper_library">
+      <HintPath>Library\PackageCache\com.unity.cinemachine@2.7.9\Runtime\ThirdParty\clipper_library.dll</HintPath>
     </Reference>
     <Reference Include="Newtonsoft.Json">
       <HintPath>Library\PackageCache\com.unity.nuget.newtonsoft-json@2.0.0\Runtime\Newtonsoft.Json.dll</HintPath>
@@ -656,8 +662,14 @@
     <Reference Include="Unity.VisualScripting.Flow.Editor">
       <HintPath>Library\ScriptAssemblies\Unity.VisualScripting.Flow.Editor.dll</HintPath>
     </Reference>
+    <Reference Include="Cinemachine">
+      <HintPath>Library\ScriptAssemblies\Cinemachine.dll</HintPath>
+    </Reference>
     <Reference Include="Unity.VSCode.Editor">
       <HintPath>Library\ScriptAssemblies\Unity.VSCode.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="com.unity.cinemachine.editor">
+      <HintPath>Library\ScriptAssemblies\com.unity.cinemachine.editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro.Editor">
       <HintPath>Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll</HintPath>
@@ -689,14 +701,14 @@
     <Reference Include="UnityEditor.UI">
       <HintPath>Library\ScriptAssemblies\UnityEditor.UI.dll</HintPath>
     </Reference>
-    <Reference Include="Unity.PlasticSCM.Editor">
-      <HintPath>Library\ScriptAssemblies\Unity.PlasticSCM.Editor.dll</HintPath>
-    </Reference>
     <Reference Include="Unity.Rider.Editor">
       <HintPath>Library\ScriptAssemblies\Unity.Rider.Editor.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.UI">
       <HintPath>Library\ScriptAssemblies\UnityEngine.UI.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.PlasticSCM.Editor">
+      <HintPath>Library\ScriptAssemblies\Unity.PlasticSCM.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VisualScripting.State">
       <HintPath>Library\ScriptAssemblies\Unity.VisualScripting.State.dll</HintPath>
