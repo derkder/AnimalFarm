@@ -1,0 +1,90 @@
+
+小恐龙第二版.png
+size: 332,507
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm-back
+  rotate: true
+  xy: 264, 129
+  size: 98, 57
+  orig: 98, 57
+  offset: 0, 0
+  index: -1
+arm-front
+  rotate: false
+  xy: 2, 14
+  size: 104, 52
+  orig: 104, 52
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 181, 296
+  size: 209, 134
+  orig: 209, 134
+  offset: 0, 0
+  index: -1
+eye-back-closed
+  rotate: true
+  xy: 317, 481
+  size: 24, 13
+  orig: 24, 13
+  offset: 0, 0
+  index: -1
+eye-back-open
+  rotate: false
+  xy: 317, 459
+  size: 12, 20
+  orig: 12, 20
+  offset: 0, 0
+  index: -1
+eye-front-closed
+  rotate: true
+  xy: 317, 438
+  size: 19, 11
+  orig: 19, 11
+  offset: 0, 0
+  index: -1
+eye-front-open
+  rotate: true
+  xy: 161, 50
+  size: 16, 23
+  orig: 16, 23
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 2, 225
+  size: 177, 280
+  orig: 177, 280
+  offset: 0, 0
+  index: -1
+jaw
+  rotate: false
+  xy: 108, 17
+  size: 51, 49
+  orig: 51, 49
+  offset: 0, 0
+  index: -1
+leg-back
+  rotate: false
+  xy: 264, 2
+  size: 54, 125
+  orig: 54, 125
+  offset: 0, 0
+  index: -1
+leg-front
+  rotate: true
+  xy: 181, 229
+  size: 65, 137
+  orig: 65, 137
+  offset: 0, 0
+  index: -1
+tail
+  rotate: true
+  xy: 2, 68
+  size: 155, 260
+  orig: 155, 260
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,181 @@
+
+houseBroken.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chips1
+  rotate: false
+  xy: 1062, 249
+  size: 171, 65
+  orig: 171, 65
+  offset: 0, 0
+  index: -1
+chips2
+  rotate: true
+  xy: 1235, 252
+  size: 79, 65
+  orig: 79, 65
+  offset: 0, 0
+  index: -1
+chips3
+  rotate: true
+  xy: 729, 244
+  size: 265, 78
+  orig: 265, 78
+  offset: 0, 0
+  index: -1
+chips4
+  rotate: true
+  xy: 1030, 34
+  size: 213, 85
+  orig: 213, 85
+  offset: 0, 0
+  index: -1
+dirt1
+  rotate: true
+  xy: 912, 31
+  size: 216, 116
+  orig: 216, 116
+  offset: 0, 0
+  index: -1
+dirt2
+  rotate: false
+  xy: 226, 2
+  size: 183, 92
+  orig: 183, 92
+  offset: 0, 0
+  index: -1
+fog1
+  rotate: true
+  xy: 487, 144
+  size: 365, 240
+  orig: 365, 240
+  offset: 0, 0
+  index: -1
+fog2
+  rotate: true
+  xy: 809, 249
+  size: 260, 251
+  orig: 260, 251
+  offset: 0, 0
+  index: -1
+fog3
+  rotate: true
+  xy: 2, 36
+  size: 473, 222
+  orig: 473, 222
+  offset: 0, 0
+  index: -1
+fog4
+  rotate: true
+  xy: 226, 96
+  size: 413, 259
+  orig: 413, 259
+  offset: 0, 0
+  index: -1
+s_chips1
+  rotate: false
+  xy: 62, 7
+  size: 25, 27
+  orig: 25, 27
+  offset: 0, 0
+  index: -1
+s_chips2
+  rotate: true
+  xy: 2, 4
+  size: 30, 29
+  orig: 30, 29
+  offset: 0, 0
+  index: -1
+s_chips3
+  rotate: false
+  xy: 33, 5
+  size: 27, 29
+  orig: 27, 29
+  offset: 0, 0
+  index: -1
+s_chips4
+  rotate: false
+  xy: 487, 99
+  size: 38, 43
+  orig: 38, 43
+  offset: 0, 0
+  index: -1
+s_chips5
+  rotate: true
+  xy: 411, 5
+  size: 89, 70
+  orig: 89, 70
+  offset: 0, 0
+  index: -1
+s_chips6
+  rotate: true
+  xy: 1117, 8
+  size: 70, 64
+  orig: 70, 64
+  offset: 0, 0
+  index: -1
+s_chips7
+  rotate: false
+  xy: 1183, 9
+  size: 159, 69
+  orig: 159, 69
+  offset: 0, 0
+  index: -1
+s_dirt1
+  rotate: true
+  xy: 1328, 347
+  size: 162, 98
+  orig: 162, 98
+  offset: 0, 0
+  index: -1
+s_dirt2
+  rotate: true
+  xy: 1274, 86
+  size: 164, 97
+  orig: 164, 97
+  offset: 0, 0
+  index: -1
+s_fog1
+  rotate: true
+  xy: 1117, 80
+  size: 167, 155
+  orig: 167, 155
+  offset: 0, 0
+  index: -1
+s_fog2
+  rotate: true
+  xy: 1211, 333
+  size: 176, 115
+  orig: 176, 115
+  offset: 0, 0
+  index: -1
+s_fog3
+  rotate: true
+  xy: 1062, 316
+  size: 193, 147
+  orig: 193, 147
+  offset: 0, 0
+  index: -1
+sparkles1
+  rotate: false
+  xy: 483, 6
+  size: 265, 88
+  orig: 265, 88
+  offset: 0, 0
+  index: -1
+sparkles2
+  rotate: true
+  xy: 750, 4
+  size: 238, 86
+  orig: 238, 86
+  offset: 0, 0
+  index: -1
+sparkles3
+  rotate: true
+  xy: 838, 10
+  size: 237, 72
+  orig: 237, 72
+  offset: 0, 0
+  index: -1

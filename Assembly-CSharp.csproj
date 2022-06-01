@@ -56,16 +56,40 @@
     <Analyzer Include="D:\VS_ide\Common7\IDE\Extensions\Microsoft\Visual Studio Tools for Unity\Analyzers\Microsoft.Unity.Analyzers.dll" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\scripts\player\fsm\DinoBaseState.cs" />
-    <Compile Include="Assets\scripts\player\fsm\Attacking2State.cs" />
-    <Compile Include="Assets\scripts\player\fsm\MovingState.cs" />
-    <Compile Include="Assets\scripts\player\fsm\Attacking3State.cs" />
-    <Compile Include="Assets\scripts\player\fsm\Attacking1State.cs" />
-    <Compile Include="Assets\scripts\player\Dino.cs" />
-    <Compile Include="Assets\scripts\player\fsm\StandingState.cs" />
-    <Compile Include="Assets\scripts\Animals\BaseAnimal.cs" />
-    <Compile Include="Assets\scripts\Animals\chicken.cs" />
-    <Compile Include="Assets\scripts\Animals\mouse.cs" />
+    <Compile Include="Assets\scripts\Dino_fsm(3attack)\fsm\DinoBaseState.cs" />
+    <Compile Include="Assets\scripts\settingForCam\RotatingCamera.cs" />
+    <Compile Include="Assets\scripts\SceneBroken\fenceBroken.cs" />
+    <Compile Include="Assets\scripts\Animals\Sheep.cs" />
+    <Compile Include="Assets\scripts\test(animal)\chicken.cs" />
+    <Compile Include="Assets\scripts\settingForCam\FacingCamera.cs" />
+    <Compile Include="Assets\scripts\sceneManager\GameManager.cs" />
+    <Compile Include="Assets\scripts\test(animal)\BaseAnimal.cs" />
+    <Compile Include="Assets\scripts\Farmers\easyFarmer.cs" />
+    <Compile Include="Assets\scripts\Dino_fsm(3attack)\fsm\Attacking2State.cs" />
+    <Compile Include="Assets\scripts\Dino_fsm(3attack)\fsm\MovingState.cs" />
+    <Compile Include="Assets\scripts\sceneManager\StartMenuAnim.cs" />
+    <Compile Include="Assets\scripts\Dino_fsm(3attack)\fsm\Attacking3State.cs" />
+    <Compile Include="Assets\scripts\SceneBroken\despair.cs" />
+    <Compile Include="Assets\scripts\Farmers\farmer.cs" />
+    <Compile Include="Assets\scripts\Farmers\farmerWithF.cs" />
+    <Compile Include="Assets\scripts\sceneManager\menu.cs" />
+    <Compile Include="Assets\scripts\Dino_fsm(3attack)\fsm\Attacking1State.cs" />
+    <Compile Include="Assets\scripts\Dino_fsm(3attack)\Dino.cs" />
+    <Compile Include="Assets\scripts\Dino_fsm(3attack)\fsm\StandingState.cs" />
+    <Compile Include="Assets\scripts\settingForCam\PlayerMovement.cs" />
+    <Compile Include="Assets\scripts\Farmers\Boss.cs" />
+    <Compile Include="Assets\scripts\test(animal)\mouse.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Assets\Spine\version.txt" />
+    <None Include="Assets\SpineAsset\Farmers\Farmer\farmer.atlas.txt" />
+    <None Include="Assets\SpineAsset\Farmers\FarmerWithFork\farmer.atlas.txt" />
+    <None Include="Assets\SpineAsset\HouseBroken\houseBroken.atlas.txt" />
+    <None Include="Assets\SpineAsset\Animals\rooster\小恐龙第二版.atlas.txt" />
+    <None Include="Assets\SpineAsset\Animals\mouse\小恐龙第二版.atlas.txt" />
+    <None Include="Assets\SpineAsset\Boss\BOSS.atlas.txt" />
+    <None Include="Assets\SpineAsset\Animals\sheep\小恐龙第二版.atlas.txt" />
+    <None Include="Assets\SpineAsset\Dino\小恐龙第二版.atlas.txt" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
@@ -695,6 +719,9 @@
     <Reference Include="VSSettingsProvider">
       <HintPath>Library\ScriptAssemblies\VSSettingsProvider.dll</HintPath>
     </Reference>
+    <Reference Include="Unity.2D.Sprite.Editor">
+      <HintPath>Library\ScriptAssemblies\Unity.2D.Sprite.Editor.dll</HintPath>
+    </Reference>
     <Reference Include="Unity.VisualScripting.Flow">
       <HintPath>Library\ScriptAssemblies\Unity.VisualScripting.Flow.dll</HintPath>
     </Reference>
@@ -718,6 +745,14 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="spine-unity.csproj">
+      <Project>{1B200021-3C0C-25A2-4C3B-4B8CB5FFA50F}</Project>
+      <Name>spine-unity</Name>
+    </ProjectReference>
+    <ProjectReference Include="spine-unity-editor.csproj">
+      <Project>{754C5744-C188-8D72-3A4E-F1BA3109DBA8}</Project>
+      <Name>spine-unity-editor</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Target Name="GenerateTargetFrameworkMonikerAttribute" />

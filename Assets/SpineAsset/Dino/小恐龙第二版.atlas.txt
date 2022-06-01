@@ -1,0 +1,202 @@
+
+小恐龙第二版.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+AK
+  rotate: false
+  xy: 995, 535
+  size: 290, 112
+  orig: 290, 112
+  offset: 0, 0
+  index: -1
+AKbullet
+  rotate: false
+  xy: 1288, 664
+  size: 75, 55
+  orig: 75, 55
+  offset: 0, 0
+  index: -1
+AKbulletfire
+  rotate: false
+  xy: 565, 138
+  size: 70, 65
+  orig: 70, 65
+  offset: 0, 0
+  index: -1
+AKfire
+  rotate: false
+  xy: 1135, 183
+  size: 170, 193
+  orig: 170, 193
+  offset: 0, 0
+  index: -1
+arm-back
+  rotate: true
+  xy: 1287, 543
+  size: 104, 94
+  orig: 104, 94
+  offset: 0, 0
+  index: -1
+arm-front
+  rotate: false
+  xy: 562, 20
+  size: 92, 114
+  orig: 92, 114
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 868, 26
+  size: 265, 340
+  orig: 265, 340
+  offset: 0, 0
+  index: -1
+eye-back-closed
+  rotate: false
+  xy: 868, 6
+  size: 37, 18
+  orig: 37, 18
+  offset: 0, 0
+  index: -1
+eye-back-open
+  rotate: false
+  xy: 1229, 90
+  size: 29, 42
+  orig: 29, 42
+  offset: 0, 0
+  index: -1
+eye-front-closed
+  rotate: true
+  xy: 1229, 134
+  size: 47, 23
+  orig: 47, 23
+  offset: 0, 0
+  index: -1
+eye-front-open
+  rotate: false
+  xy: 1365, 672
+  size: 34, 47
+  orig: 34, 47
+  offset: 0, 0
+  index: -1
+eye-glasses
+  rotate: true
+  xy: 1135, 15
+  size: 166, 92
+  orig: 166, 92
+  offset: 0, 0
+  index: -1
+eyes-angry
+  rotate: true
+  xy: 479, 2
+  size: 132, 81
+  orig: 132, 81
+  offset: 0, 0
+  index: -1
+eyes-skill
+  rotate: false
+  xy: 2, 5
+  size: 158, 127
+  orig: 158, 127
+  offset: 0, 0
+  index: -1
+ground_flame1
+  rotate: false
+  xy: 1094, 378
+  size: 287, 155
+  orig: 287, 155
+  offset: 0, 0
+  index: -1
+ground_flame2
+  rotate: true
+  xy: 656, 4
+  size: 358, 210
+  orig: 358, 210
+  offset: 0, 0
+  index: -1
+ground_flame3
+  rotate: true
+  xy: 2, 134
+  size: 888, 294
+  orig: 888, 294
+  offset: 0, 0
+  index: -1
+head
+  rotate: true
+  xy: 995, 649
+  size: 373, 291
+  orig: 373, 291
+  offset: 0, 0
+  index: -1
+jaw
+  rotate: true
+  xy: 1288, 721
+  size: 301, 137
+  orig: 301, 137
+  offset: 0, 0
+  index: -1
+leg-back
+  rotate: false
+  xy: 956, 370
+  size: 60, 146
+  orig: 60, 146
+  offset: 0, 0
+  index: -1
+leg-front
+  rotate: false
+  xy: 1018, 376
+  size: 74, 157
+  orig: 74, 157
+  offset: 0, 0
+  index: -1
+mouth_flame1
+  rotate: false
+  xy: 162, 10
+  size: 115, 122
+  orig: 115, 122
+  offset: 0, 0
+  index: -1
+mouth_flame2
+  rotate: false
+  xy: 808, 368
+  size: 146, 148
+  orig: 146, 148
+  offset: 0, 0
+  index: -1
+roar
+  rotate: true
+  xy: 279, 17
+  size: 115, 198
+  orig: 115, 198
+  offset: 0, 0
+  index: -1
+shockwave
+  rotate: true
+  xy: 565, 364
+  size: 658, 241
+  orig: 658, 241
+  offset: 0, 0
+  index: -1
+shockwave2
+  rotate: true
+  xy: 298, 136
+  size: 886, 265
+  orig: 886, 265
+  offset: 0, 0
+  index: -1
+tail
+  rotate: true
+  xy: 808, 518
+  size: 504, 185
+  orig: 504, 185
+  offset: 0, 0
+  index: -1
+tongue
+  rotate: true
+  xy: 565, 205
+  size: 157, 75
+  orig: 157, 75
+  offset: 0, 0
+  index: -1

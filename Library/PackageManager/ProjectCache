@@ -5,16 +5,16 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637872055213466767
-    m_Hash: 3472202997
+      ticks: 637890828808892667
+    m_Hash: 684485806
   m_LockFileStatus:
     m_FilePath: D:/unity/AnimalFarm/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637872055213576476
-    m_Hash: 1184339307
+      ticks: 637890828809042302
+    m_Hash: 3198590512
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_LocalPackages:
@@ -22,6 +22,60 @@ m_LocalPackages:
 m_ProjectPath: D:/unity/AnimalFarm/Packages
 m_EditorVersion: 2021.1.15f1c1 (53017094f33d)
 m_ResolvedPackages:
+- packageId: com.unity.2d.sprite@1.0.0
+  testable: 0
+  isDirectDependency: 1
+  version: 1.0.0
+  source: 2
+  resolvedPath: D:\unity\AnimalFarm\Library\PackageCache\com.unity.2d.sprite@1.0.0
+  assetPath: Packages/com.unity.2d.sprite
+  name: com.unity.2d.sprite
+  displayName: 2D Sprite
+  author:
+    name: 
+    email: 
+    url: 
+  category: 2D
+  type: 
+  description: Use Unity Sprite Editor Window to create and edit Sprite asset properties
+    like pivot, borders and Physics shape
+  status: 4
+  errors: []
+  versions:
+    all:
+    - 1.0.0
+    compatible:
+    - 1.0.0
+    verified: 1.0.0
+  dependencies: []
+  resolvedDependencies: []
+  keywords:
+  - 2d
+  - sprite
+  - sprite editor window
+  registry:
+    id: 
+    name: 
+    url: 
+    scopes: []
+    isDefault: 0
+    capabilities: 0
+  hasRegistry: 0
+  hideInEditor: 1
+  entitlements:
+    isAllowed: 1
+  isAssetStorePackage: 0
+  datePublishedTicks: 0
+  documentationUrl: 
+  hasRepository: 0
+  repository:
+    type: 
+    url: 
+    revision: 
+    path: 
+  unityLifecycle:
+    version: 1.0.0
+    nextVersion: 
 - packageId: com.unity.cinemachine@2.7.9
   testable: 0
   isDirectDependency: 1
@@ -224,6 +278,7 @@ m_ResolvedPackages:
     - 1.14.15
     - 1.14.16
     - 1.14.17
+    - 1.14.18
     - 1.15.1
     - 1.15.4
     - 1.15.7
@@ -233,6 +288,7 @@ m_ResolvedPackages:
     - 1.15.15
     - 1.15.16
     - 1.15.17
+    - 1.15.18
     - 2.0.0-preview.6
     - 2.0.0-preview.8
     - 2.0.0-preview.15
@@ -262,6 +318,7 @@ m_ResolvedPackages:
     - 1.14.15
     - 1.14.16
     - 1.14.17
+    - 1.14.18
     - 1.15.1
     - 1.15.4
     - 1.15.7
@@ -271,6 +328,7 @@ m_ResolvedPackages:
     - 1.15.15
     - 1.15.16
     - 1.15.17
+    - 1.15.18
     - 2.0.0-preview.6
     - 2.0.0-preview.8
     - 2.0.0-preview.15
@@ -1096,6 +1154,7 @@ m_ResolvedPackages:
     - 1.7.5
     - 1.7.6
     - 1.7.7
+    - 1.7.8
     - 1.8.0-pre.1
     compatible:
     - 1.6.1
@@ -1105,6 +1164,7 @@ m_ResolvedPackages:
     - 1.7.5
     - 1.7.6
     - 1.7.7
+    - 1.7.8
     verified: 1.6.1
   dependencies:
   - name: com.unity.ugui

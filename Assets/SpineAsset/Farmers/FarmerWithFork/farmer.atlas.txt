@@ -1,0 +1,97 @@
+
+farmer.png
+size: 2048,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm-back
+  rotate: false
+  xy: 874, 40
+  size: 134, 87
+  orig: 134, 87
+  offset: 0, 0
+  index: -1
+arm-front
+  rotate: false
+  xy: 765, 15
+  size: 107, 112
+  orig: 107, 112
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 1171, 125
+  size: 128, 280
+  orig: 128, 280
+  offset: 0, 0
+  index: -1
+cloak
+  rotate: false
+  xy: 2, 12
+  size: 378, 241
+  orig: 378, 241
+  offset: 0, 0
+  index: -1
+eyes-angry
+  rotate: true
+  xy: 1148, 2
+  size: 79, 45
+  orig: 79, 45
+  offset: 0, 0
+  index: -1
+eyes-normal
+  rotate: false
+  xy: 874, 6
+  size: 57, 32
+  orig: 57, 32
+  offset: 0, 0
+  index: -1
+fork
+  rotate: true
+  xy: 382, 14
+  size: 239, 381
+  orig: 239, 381
+  offset: 0, 0
+  index: -1
+hat
+  rotate: false
+  xy: 765, 129
+  size: 338, 124
+  orig: 338, 124
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 1453, 79
+  size: 171, 174
+  orig: 171, 174
+  offset: 0, 0
+  index: -1
+leg-back
+  rotate: true
+  xy: 1020, 38
+  size: 43, 126
+  orig: 43, 126
+  offset: 0, 0
+  index: -1
+leg-front
+  rotate: true
+  xy: 1010, 83
+  size: 44, 159
+  orig: 44, 159
+  offset: 0, 0
+  index: -1
+mouth
+  rotate: true
+  xy: 990, 5
+  size: 33, 28
+  orig: 33, 28
+  offset: 0, 0
+  index: -1
+mouth1
+  rotate: false
+  xy: 933, 12
+  size: 55, 26
+  orig: 55, 26
+  offset: 0, 0
+  index: -1

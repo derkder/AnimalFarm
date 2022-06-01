@@ -1,0 +1,83 @@
+
+farmer.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm-back
+  rotate: false
+  xy: 693, 94
+  size: 109, 97
+  orig: 109, 97
+  offset: 0, 0
+  index: -1
+arm-front
+  rotate: true
+  xy: 576, 100
+  size: 91, 115
+  orig: 91, 115
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 2, 14
+  size: 134, 287
+  orig: 134, 287
+  offset: 0, 0
+  index: -1
+eyes-angry
+  rotate: false
+  xy: 491, 139
+  size: 83, 52
+  orig: 83, 52
+  offset: 0, 0
+  index: -1
+eyes-normal
+  rotate: false
+  xy: 2, 154
+  size: 59, 37
+  orig: 59, 37
+  offset: 0, 0
+  index: -1
+hat
+  rotate: false
+  xy: 291, 2
+  size: 278, 135
+  orig: 278, 135
+  offset: 0, 0
+  index: -1
+head
+  rotate: true
+  xy: 804, 22
+  size: 169, 210
+  orig: 169, 210
+  offset: 0, 0
+  index: -1
+leg-back
+  rotate: true
+  xy: 172, 150
+  size: 41, 156
+  orig: 41, 156
+  offset: 0, 0
+  index: -1
+leg-front
+  rotate: true
+  xy: 330, 143
+  size: 48, 159
+  orig: 48, 159
+  offset: 0, 0
+  index: -1
+mouth
+  rotate: false
+  xy: 63, 154
+  size: 50, 37
+  orig: 50, 37
+  offset: 0, 0
+  index: -1
+mouth1
+  rotate: false
+  xy: 115, 152
+  size: 55, 39
+  orig: 55, 39
+  offset: 0, 0
+  index: -1

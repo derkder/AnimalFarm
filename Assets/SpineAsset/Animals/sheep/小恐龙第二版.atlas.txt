@@ -1,0 +1,188 @@
+
+小恐龙第二版.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Fur1
+  rotate: false
+  xy: 421, 91
+  size: 83, 102
+  orig: 83, 102
+  offset: 0, 0
+  index: -1
+Fur2
+  rotate: false
+  xy: 421, 91
+  size: 83, 102
+  orig: 83, 102
+  offset: 0, 0
+  index: -1
+Fur10
+  rotate: true
+  xy: 506, 93
+  size: 100, 96
+  orig: 100, 96
+  offset: 0, 0
+  index: -1
+Fur11
+  rotate: false
+  xy: 448, 3
+  size: 93, 86
+  orig: 93, 86
+  offset: 0, 0
+  index: -1
+Fur12
+  rotate: false
+  xy: 2, 2
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+Fur13
+  rotate: false
+  xy: 165, 8
+  size: 75, 64
+  orig: 75, 64
+  offset: 0, 0
+  index: -1
+Fur14
+  rotate: false
+  xy: 543, 3
+  size: 81, 88
+  orig: 81, 88
+  offset: 0, 0
+  index: -1
+Fur3
+  rotate: true
+  xy: 681, 159
+  size: 51, 37
+  orig: 51, 37
+  offset: 0, 0
+  index: -1
+Fur4
+  rotate: true
+  xy: 681, 159
+  size: 51, 37
+  orig: 51, 37
+  offset: 0, 0
+  index: -1
+Fur5
+  rotate: true
+  xy: 681, 159
+  size: 51, 37
+  orig: 51, 37
+  offset: 0, 0
+  index: -1
+Fur6
+  rotate: true
+  xy: 681, 159
+  size: 51, 37
+  orig: 51, 37
+  offset: 0, 0
+  index: -1
+Fur7
+  rotate: false
+  xy: 74, 8
+  size: 89, 64
+  orig: 89, 64
+  offset: 0, 0
+  index: -1
+Fur8
+  rotate: false
+  xy: 74, 8
+  size: 89, 64
+  orig: 89, 64
+  offset: 0, 0
+  index: -1
+Fur9
+  rotate: false
+  xy: 74, 8
+  size: 89, 64
+  orig: 89, 64
+  offset: 0, 0
+  index: -1
+arm-back
+  rotate: true
+  xy: 242, 11
+  size: 61, 204
+  orig: 61, 204
+  offset: 0, 0
+  index: -1
+arm-front
+  rotate: true
+  xy: 626, 25
+  size: 81, 220
+  orig: 81, 220
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 2, 74
+  size: 436, 311
+  orig: 436, 311
+  offset: 0, 0
+  index: -1
+eye-back-closed
+  rotate: false
+  xy: 671, 4
+  size: 35, 19
+  orig: 35, 19
+  offset: 0, 0
+  index: -1
+eye-back-open
+  rotate: false
+  xy: 710, 119
+  size: 22, 38
+  orig: 22, 38
+  offset: 0, 0
+  index: -1
+eye-front-closed
+  rotate: true
+  xy: 681, 110
+  size: 47, 27
+  orig: 47, 27
+  offset: 0, 0
+  index: -1
+eye-front-open
+  rotate: true
+  xy: 626, 3
+  size: 20, 43
+  orig: 20, 43
+  offset: 0, 0
+  index: -1
+head
+  rotate: true
+  xy: 315, 195
+  size: 315, 308
+  orig: 315, 308
+  offset: 0, 0
+  index: -1
+jaw grass
+  rotate: true
+  xy: 604, 108
+  size: 85, 75
+  orig: 85, 75
+  offset: 0, 0
+  index: -1
+leg-back
+  rotate: true
+  xy: 625, 212
+  size: 60, 200
+  orig: 60, 200
+  offset: 0, 0
+  index: -1
+leg-front
+  rotate: false
+  xy: 625, 274
+  size: 80, 236
+  orig: 80, 236
+  offset: 0, 0
+  index: -1
+tail
+  rotate: true
+  xy: 315, 81
+  size: 112, 104
+  orig: 112, 104
+  offset: 0, 0
+  index: -1
